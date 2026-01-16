@@ -15,7 +15,7 @@ app = FastAPI()
 # Mount frontend directory for static assets (css, js)
 # Use absolute path to be safe regardless of where python is run from
 current_dir = os.path.dirname(os.path.abspath(__file__))
-frontend_dir = os.path.join(current_dir, "../frontend")
+frontend_dir = os.path.join(current_dir, "frontend")
 
 app.mount("/static", StaticFiles(directory=frontend_dir), name="static")
 
