@@ -1,0 +1,58 @@
+{
+  "admissions": {
+    "undergraduate": {
+      "content": "WIU has rolling admission! For Fall, we recommend applying by August 1. For Spring, by November 1. Good news: We are test-optional, meaning SAT/ACT scores are NOT required for undergraduate admission.",
+      "url": "https://www.wiu.edu/admissions/"
+    },
+    "international": {
+      "content": "International students are welcome! Application deadlines are April 1 for Fall semester and October 1 for Spring semester. You will need to check English proficiency requirements.",
+      "url": "https://www.wiu.edu/graduate_studies/international/"
+    },
+    "transfer": {
+      "content": "Transferring is seamless at WIU. If you have completed at least 24 semester hours, apply as a transfer student. Recommended deadlines: August 1 (Fall) and December 1 (Spring).",
+      "url": "https://www.wiu.edu/admissions/transfer/"
+    }
+  },
+  "courses": {
+    "data_science": {
+      "content": "WIU offers programs in Data Science and Business Analytics as part of its School of Computer Sciences. Check the catalog for specific course codes.",
+      "url": "https://www.wiu.edu/academics/majors"
+    },
+    "biology": {
+      "content": "The Department of Biological Sciences includes concentrations in Botany, Microbiology, and Zoology.",
+      "url": "https://www.wiu.edu/academics/biology"
+    },
+    "general": {
+      "content": "Western Illinois University offers over 120 majors and 35+ graduate programs. We have a 12:1 Student-to-Faculty ratio!",
+      "url": "https://www.wiu.edu/academics/majors"
+    }
+  },
+  "fees": {
+    "tuition_in_state": {
+      "content": "At WIU, there is NO out-of-state tuition premium! Everyone pays the in-state rate, regardless of where they live.",
+      "url": "https://www.wiu.edu/admissions/tuition"
+    },
+    "tuition_out_of_state": {
+      "content": "Good news: Out-of-state students pay the EXACT SAME rate as in-state students. We don't charge extra for crossing state lines.",
+      "url": "https://www.wiu.edu/admissions/tuition"
+    },
+    "scholarships": {
+      "content": "Our 'Western Way' program covers all tuition and mandatory fees for eligible students. The average financial aid award is $19,000!",
+      "url": "https://www.wiu.edu/westernway/"
+    }
+  },
+  "campus_life": {
+    "housing": {
+      "content": "Experience Leatherneck life! We have comfortable residence halls and lively green spaces. Freshmen typically live on campus.",
+      "url": "https://www.wiu.edu/life/housing"
+    },
+    "sports": {
+      "content": "WIU Athletics (The Leathernecks) compete in NCAA Division I. We offer Football, Basketball, Soccer, and more.",
+      "url": "https://goleathernecks.com/"
+    },
+    "mental_health": {
+      "content": "We offer robust mental health resources, including the University Counseling Center and emergency support.",
+      "url": "https://www.wiu.edu/student_success/mentalhealth.php"
+    }
+  }
+}
